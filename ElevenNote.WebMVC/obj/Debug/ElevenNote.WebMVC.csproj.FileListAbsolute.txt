@@ -112,6 +112,5 @@ C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.
 C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
 C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
